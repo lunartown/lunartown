@@ -1,22 +1,22 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flunartown&count_bg=%2393BFCF&title_bg=%236096B4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there 👋
 
-[![lunartown's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true)](https://github.com/lunartown/github-readme-stats)
 
-<p align='right'><a href="https://solved.ac/lunartown/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown"></a>
 
-![Java](https://camo.githubusercontent.com/161b622a8cda09bc58441ad150dce75ea98a0bb79d13d72705df80db00c24931/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a4156412d3030373339363f7374796c653d666c6174266c6f676f3d4f70656e4a444b266c6f676f436f6c6f723d7768697465?&style=for-the-badge&logo=Java&logoColor=white)
+# 👋 Hello World
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white">
 
-**lunartown/lunartown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ❄Lunartown
+<a href="https://github.com/lunartown/github-readme-stats"><img align='right' src="https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true"></a>
+<a href="https://solved.ac/lunartown/"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown" style="position:absolute; margin-right: 20px; margin-bottom: 10px;"/></a>
+- 👩‍🎓 graduated from **Seoul Science High School**, majored in **Mechanical Engineering** at **Korea University**
+- 🌏 **Seoul**, Republic of Korea
+- 🌱 currently learning **Stateful Server Programming**, **Algorithm**
+- 👀 interested in **👾Game**, **🎵Music**, **🎨Drawing**
+- 📫 to contact me dosoon.in.cp@gmail.com
 
-Here are some ideas to get you started:
+<!---
+Dosoon/Dosoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
