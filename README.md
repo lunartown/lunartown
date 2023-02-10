@@ -9,8 +9,8 @@
 <a href="https://github.com/lunartown/github-readme-stats"><img align='right' src="https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true"></a>
 
 - 👩‍🎓 graduated from **Seoul Science High School**, majored in **Mechanical Engineering** at **Korea University**
-- 🌏 **Seoul**, Republic of Korea
-- 🌱 currently studying at **SSAFY**
+- 🌏 **Seongnam**, **Gyeongi**, Republic of Korea
+- 🌱 currently studying at **Samsung Software Academy For Youth**, a.k.a. **SSAFY**
 - 👀 interested in **👾Game**, **🎵Music**, **🎨Drawing**
 - 📫 to contact me lunartown@gmail.com
 
