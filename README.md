@@ -7,7 +7,7 @@
 
 ## ❄Lunartown
 <a href="https://github.com/lunartown/github-readme-stats"><img align='right' src="https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true"></a>
-<a href="https://solved.ac/lunartown/"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown" style="position:absolute; margin-right: 20px; margin-bottom: 10px;"/></a>
+<a href="https://solved.ac/lunartown/"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown" style="position:absolute; margin-right: 20px; margin-top: 50px;"/></a>
 - 👩‍🎓 graduated from **Seoul Science High School**, majored in **Mechanical Engineering** at **Korea University**
 - 🌏 **Seoul**, Republic of Korea
 - 🌱 currently learning **Stateful Server Programming**, **Algorithm**
