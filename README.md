@@ -7,10 +7,6 @@
 
 ## ❄Lunartown
 <a href="https://github.com/lunartown/github-readme-stats"><img align='right' src="https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://solved.ac/lunartown/"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown"/></a>
-&nbsp;&nbsp;&nbsp;
-
 
 - 👩‍🎓 graduated from **Seoul Science High School**, majored in **Mechanical Engineering** at **Korea University**
 - 🌏 **Seoul**, Republic of Korea
@@ -18,9 +14,7 @@
 - 👀 interested in **👾Game**, **🎵Music**, **🎨Drawing**
 - 📫 to contact me dosoon.in.cp@gmail.com
 
-<!---
-Dosoon/Dosoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://solved.ac/lunartown/"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown"/></a>
 
 
