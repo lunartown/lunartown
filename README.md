@@ -5,14 +5,14 @@
 # 👋 Hello World
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white">
 
-## ❄Lunartown
+## ❄lunartown
 <a href="https://github.com/lunartown/github-readme-stats"><img align='right' src="https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true"></a>
 
 - 👩‍🎓 graduated from **Seoul Science High School**, majored in **Mechanical Engineering** at **Korea University**
 - 🌏 **Seoul**, Republic of Korea
-- 🌱 currently learning **Stateful Server Programming**, **Algorithm**
+- 🌱 currently studying at **SSAFY**
 - 👀 interested in **👾Game**, **🎵Music**, **🎨Drawing**
-- 📫 to contact me dosoon.in.cp@gmail.com
+- 📫 to contact me lunartown@gmail.com
 
 ---
 <a href="https://solved.ac/lunartown/"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown"/></a>
