@@ -3,7 +3,7 @@
 
 [![lunartown's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true)](https://github.com/lunartown/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown)](https://solved.ac/lunartown/)
+<p align='right'><a href="https://solved.ac/lunartown/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown"></a>
 
 ![Java](https://camo.githubusercontent.com/161b622a8cda09bc58441ad150dce75ea98a0bb79d13d72705df80db00c24931/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a4156412d3030373339363f7374796c653d666c6174266c6f676f3d4f70656e4a444b266c6f676f436f6c6f723d7768697465?&style=for-the-badge&logo=Java&logoColor=white)
 
