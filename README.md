@@ -1,6 +1,12 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flunartown&count_bg=%2393BFCF&title_bg=%236096B4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
 
-<!--
+[![lunartown's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true)](https://github.com/lunartown/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunartown)](https://solved.ac/lunartown/)
+
+![Java](https://camo.githubusercontent.com/161b622a8cda09bc58441ad150dce75ea98a0bb79d13d72705df80db00c24931/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a4156412d3030373339363f7374796c653d666c6174266c6f676f3d4f70656e4a444b266c6f676f436f6c6f723d7768697465?&style=for-the-badge&logo=Java&logoColor=white)
+
 **lunartown/lunartown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
