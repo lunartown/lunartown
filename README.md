@@ -10,7 +10,7 @@
 <a href="https://github.com/lunartown/github-readme-stats"><img align='right' src="https://github-readme-stats.vercel.app/api?username=lunartown&count_private=true&theme=transparant&show_icons=true"></a>
 
 - 👩‍🎓 graduated from **Seoul Science High School**, majored in **Mechanical Engineering** at **Korea University**
-- 🌏 **Seongnam**, **Gyeongi**, Republic of Korea
+- 🌏 **Gwanak**, **Seoul**, Republic of Korea
 - 🌱 studied at **Samsung Software Academy For Youth**, a.k.a. **SSAFY**
 - 👀 interested in **🎸Guitar**, **🎹Piano**, **🎷Jazz**, **🎤Singing**, **🎨Drawing**
 - 📫 to contact me lunartown@gmail.com
